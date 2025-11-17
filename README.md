@@ -91,3 +91,5 @@ Four(4) targeted questions were translated to SQL queries to generate insights a
 - Which products have not been sold at all?
 
 Each of these questions in no particular order addresses the need to prioritize investments, understand consumer behaviour during certain times of the week to work out employee shift so as to minimize labour cost, know which category of products deserve more focus and to also know item/products generating no revenue
+
+[SQL Queries](INSTACART SQL Codes.sql) that generate insights and solutions to these business needs.
