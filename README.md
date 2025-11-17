@@ -5,16 +5,6 @@ I worked on a PBI and SQL analytics project that uncovers Instacart’s key sale
 
 - [Project Overview](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#project-overview)
 
-- [Key Performance Indicators(KPIs)](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#key-performance-indicators-kpis)
-
-- [Dashboard](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#dashboard)
-
-- [Business Problems Identified](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#business-problems-identified)
-
-- [Findings/Solutions](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#findingssolutions)
-
-- [Tech Stack](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#tech-stack)
-
 
 # Project Overview
 Instacart is a leading online grocery delivery and pickup platform in North America. It connects customers with shoppers who select groceries from partnered local stores for same-day delivery.
