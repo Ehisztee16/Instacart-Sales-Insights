@@ -16,7 +16,7 @@ The PBI dashboard and SQL analysis were driven by four major KPIs:
 
 # Dashboard
 
-[Dashboard](<img width="1386" height="766" alt="InstaCart Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/c4b8b1b1-ca05-44f3-a2fd-f4a5c24bc75e" />)
+<img width="1386" height="766" alt="InstaCart Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/c4b8b1b1-ca05-44f3-a2fd-f4a5c24bc75e" />
 
 
 # Business Problems Identified
