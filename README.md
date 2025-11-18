@@ -6,9 +6,9 @@ I worked on a PBI and SQL analytics project that uncovers Instacart’s key sale
 
 - [Project Overview](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#project-overview)
 
-- [Key Performance Indicators(KPIs)](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#key-performance-indicators-kpis)
+- [Key Performance Indicators(KPIs)](https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/README.md#key-performance-indicators-kpis)
 
-- [Dashboard](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#dashboard)
+- [Dashboard](https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/README.md#dashboard)
 
 - [Business Problems Identified](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/main/README.md#business-problems-identified)
 
