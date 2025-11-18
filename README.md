@@ -93,5 +93,4 @@ Four(4) targeted questions were translated to SQL queries to generate insights a
 
 Each of these questions in no particular order addresses the need to prioritize investments, understand consumer behaviour during certain times of the week to work out employee shift so as to minimize labour cost, know which category of products deserve more focus and to also know item/products generating no revenue
 
-
-- **[SQL Script]**(https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/INSTACART%20SQL%20Codes.sql) that generate insights and solutions to these business needs.
+[SQL Script](https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/INSTACART%20SQL%20Codes.sql) that generate insights and solutions to these business needs.
