@@ -96,3 +96,5 @@ Each of these questions in no particular order addresses the need to prioritize 
 - **[SQL Queries](INSTACART SQL Codes.sql)** that generate insights and solutions to these business needs.
 
 [INSTACART SQL Codes.sql]
+
+[SQL Script](https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/INSTACART%20SQL%20Codes.sql)
