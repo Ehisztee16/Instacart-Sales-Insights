@@ -95,3 +95,4 @@ Each of these questions in no particular order addresses the need to prioritize 
 
 - **[SQL Queries](INSTACART SQL Codes.sql)** that generate insights and solutions to these business needs.
 
+[INSTACART SQL Codes.sql]
