@@ -16,6 +16,8 @@ I worked on a PBI and SQL analytics project that uncovers Instacart’s key sale
 
 - [Tech Stack](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/blob/README.md#tech-stack)
 
+- 
+
 # Project Overview
 
 Instacart is a leading online grocery delivery and pickup platform in North America. It connects customers with shoppers who select groceries from partnered local stores for same-day delivery.
