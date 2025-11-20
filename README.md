@@ -16,6 +16,8 @@ I worked on a PBI and SQL analytics project that uncovers Instacart’s key sale
 
 - [Tech Stack](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/blob/README.md#tech-stack)
 
+- [Business Questions Analysis For SQL](https://github.com/Ehisztee16/Instacart-Sales-Insights/edit/blob/README.md#business-questions-analysis-for-sql)
+
 - 
 
 # Project Overview
