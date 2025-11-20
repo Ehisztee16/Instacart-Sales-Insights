@@ -103,4 +103,5 @@ The project successfully leveraged SQL and Power BI with the aim of transforming
 - Visualize performance across customers, products, and time periods.
 - Identify profitable products, departments and optimize operations.
 - Make data-driven decisions to improve profitability and customer experience.
+
 The insights provide a strong foundation for operational efficiency, marketing strategy, and supplier management.
