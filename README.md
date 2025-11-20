@@ -98,4 +98,9 @@ Four(4) targeted questions were translated to SQL queries to generate insights a
 
 Each of these questions in no particular order addresses the need to prioritize investments, understand consumer behaviour during certain times of the week to work out employee shift so as to minimize labour cost, know which category of products deserve more focus and to also know item/products generating no revenue. [SQL Script](https://github.com/Ehisztee16/Instacart-Sales-Insights/blob/main/INSTACART%20SQL%20Codes.sql) that generate insights and solutions to these business needs.
 
-
+# Conclusion
+The project successfully leveraged SQL and Power BI with the aim of transforming raw data into actionable business insights. Through these insights Instacart can now: 
+- Visualize performance across customers, products, and time periods.
+- Identify profitable products, departments and optimize operations.
+- Make data-driven decisions to improve profitability and customer experience.
+The insights provide a strong foundation for operational efficiency, marketing strategy, and supplier management.
