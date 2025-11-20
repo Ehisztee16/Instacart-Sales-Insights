@@ -31,9 +31,14 @@ The PBI dashboard and SQL analysis were driven by four major KPIs:
 |**Total Revenue**| The total money generated from all completed sales. This shows the overall business performance.|
 |**Average Order Value (AOV)**| This is calculated as **Total Revenue** ÷ **Total Orders**. It helps understand customer spending habits and can be used to design upselling strategies.|
 
+Other areas of concern the business needed to be clear on and address as appropriate amongst other things was to identify aisles with high customer demand but low profitability so it can negotiate better supplier pricing or reduce low-margin items in underperforming aisles, also to identify the best-performing and worst-performing products based on total sales volume and revenue with the objective of promoting high-performing products through marketing campaigns while evaluating underperforming products for potential discontinuation or improvements.
+
 # Dashboard
 
 <img width="1386" height="766" alt="InstaCart Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/c4b8b1b1-ca05-44f3-a2fd-f4a5c24bc75e" />
+
+<img width="1381" height="762" alt="Instacart dashbord Screenshot " src="https://github.com/user-attachments/assets/7154133b-ce64-4eae-95b0-cc4312c78784" />
+
 
 
 # Business Problems Identified
